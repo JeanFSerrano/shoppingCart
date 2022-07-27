@@ -13,7 +13,7 @@ const Navbar = () => {
         <NavBarBs sticky='top' className='bg-dark shadow-sm mb-3'>
             <Container>
                 <Nav className='me-auto'>
-                    <Nav.Link to='/store' as={NavLink} className='text-light'>Shopping Cart </Nav.Link>
+                    <Nav.Link to='/' as={NavLink} className='text-light'>Shopping Cart </Nav.Link>
                     
                 </Nav>
                 {cartQuantity > 0 &&

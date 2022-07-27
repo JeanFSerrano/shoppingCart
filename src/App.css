@@ -1,0 +1,17 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #777 !important;
+}
+
+input:focus {
+    box-shadow: none !important;
+}
+
+svg {
+    cursor: pointer;
+}
+
+::placeholder{
+    font-size: 1rem;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Tormenta de espadas",
+    "price": 30.99,
+    "imgUrl": "/imgs/swords.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Creatina",
+    "price": 100,
+    "imgUrl": "/imgs/creatine.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Edredom",
+    "price": 55,
+    "imgUrl": "/imgs/edredom.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hunting High and Low",
+    "price": 120,
+    "imgUrl": "/imgs/vinil.jpg"
+  }
+]
